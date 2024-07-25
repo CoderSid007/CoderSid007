@@ -1,4 +1,5 @@
 <img align="center" alt="Coding" width="1000" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderSid007)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Siddhes Das</h1>
 <h3 align="center">A passionate App Developer and also a AR/VR enthusiasts from Kolkata</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
