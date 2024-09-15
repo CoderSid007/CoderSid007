@@ -1,17 +1,14 @@
-<img align="center" alt="Coding" width="1000" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
-<h1 align="center">Hi 👋, I'm Siddhes Das</h1>
-<h3 align="center">A passionate App Developer and also a AR/VR enthusiasts from Kolkata</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-
+<h1 align="center">Myself Siddhes Das</h1>
+<h3 align="center">Aspiring application developer from kolkata</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersid007&label=Profile%20views&color=0e75b6&style=flat" alt="codersid007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/damagersid007" target="blank"><img src="https://img.shields.io/twitter/follow/damagersid007?logo=twitter&style=for-the-badge" alt="damagersid007" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , AR/VR**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [github.com/CoderSid007](github.com/CoderSid007)
 
-- 💬 Ask me about **Flutter , AR/VR**
+- 💬 Ask me about **Flutter , Android , Firebase**
 
 - 📫 How to reach me **work.siddhes22@gmail.com**
 
