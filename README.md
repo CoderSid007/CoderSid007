@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **work.siddhes22@gmail.com**
 
-- 📫 My portfolio (https://codersid007.github.io/portfolio/)
+- 📫 My portfolio https://codersid007.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
