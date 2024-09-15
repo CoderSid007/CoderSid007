@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/damagersid007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damagersid007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siddhesdas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhesdas/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Siddhes_2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://leetcode.com/u/Siddhes_2022/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Siddhes_2022/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" alt="https://leetcode.com/u/Siddhes_2022/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
